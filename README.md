@@ -1,0 +1,2 @@
+# nextdns
+Some NextDNS settings.
