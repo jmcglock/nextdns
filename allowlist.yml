@@ -1,0 +1,41 @@
+#  _                   _            _   
+# [_] _ _ _  ___  ___ | | ___  ___ | |__
+# | || ' ' |/ | '/ . || |/ . \/ | '| / /
+# | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
+#[__|            [___|                  
+# These are some commonly allowlist entries that I always add.
+apple.com
+bing.com
+dell.com
+discordapp.com
+espncdn.com
+fonts.gstatic.com
+gamepass.com
+ghcr.io
+github.com
+github.io
+gitlab.com
+googleapis.com
+jetbrains.space
+megaphone.fm
+microsoft.com
+msn.com
+nbcsports.com
+nbcu.demdex.net
+nexusrules.officeapps.live.com
+office.net
+officecdn.microsoft.com.edgesuite.net
+peacocktv.com
+pinimg.com
+s.youtube.com
+scdn.co
+soundcloud.com
+spotify.com
+tokens.playmakerservices.com
+ubuntu.com
+visualstudio.com
+windows.com
+windowsupdate.com
+nerdfonts.com
+xboxlive.com
+ui.com
