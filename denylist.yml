@@ -4,9 +4,9 @@
 # | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
 #[__|            [___|                  
 # These are some commonly blacklisted entries that I always add. 
-advice-ads.s3.amazonaws.com
 stats.gc.apple.com
 iadsdk.apple.com
+lgad.cjpowercast.com
 disqus.com
 disquscdn.com
 ad.doubleclick.net
@@ -34,7 +34,6 @@ jp.rdx2.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 smartshare.lgtvsdp.com
 us.lgtvsdp.com
-moatads.com
 ads.pinterest.com
 ads-dev.pinterest.com
 analytics.pinterest.com
@@ -47,3 +46,4 @@ api.thetake.com
 ueiwsp.com
 xcal.tv
 yumenetworks.com
+advice-ads.s3.amazonaws.com
