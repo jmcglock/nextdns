@@ -3,7 +3,7 @@
 # | || ' ' |/ | '/ . || |/ . \/ | '| / /
 # | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
 #[__|            [___|                  
-# These are some commonly allowlist entries that I always add.
+# These are some commonly whitelisted entries that I always add as wildcards.
 apple.com
 bing.com
 cloudflare.com
@@ -22,7 +22,6 @@ fonts.gstatic.com
 doppler.hulu.com
 darwin.hulustream.com
 vortex.hulu.com
-icloud.com
 instagram.com
 intuit.com
 live.com
@@ -42,7 +41,6 @@ shentel.net
 simplelogin.io
 soundcloud.com
 spotify.com
-tidal.com
 typekit.net
 ubuntu.com
 ui.com

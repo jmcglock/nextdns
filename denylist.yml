@@ -3,7 +3,7 @@
 # | || ' ' | | ' . || | . \ | '|  
 # | ||_|_|_|\_|_.\_. ||_|\___\_|_.|_\_\
 #[__|            [___|                  
-# These are some commonly blacklisted entries that I always add. 
+# I always block these URLS
 api.ad.xiaomi.com
 app.chat.xiaomi.net
 data.mistat.xiaomi.com
@@ -58,11 +58,7 @@ googleadservices.com
 static.media.net 
 media.net 
 adservetx.media.net
-doubleclick.net 
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
+doubleclick.net
 fastclick.com
 fastclick.net
 media.fastclick.net
@@ -78,9 +74,6 @@ assoc-amazon.com
 google-analytics.com
 ssl.google-analytics.com
 hotjar.com 
-static.hotjar.com
-api-hotjar.com
-hotjar-analytics.com
 mouseflow.com 
 a.mouseflow.com
 freshmarketer.com
@@ -119,17 +112,13 @@ rereddit.com
 events.redditmedia.com
 ads.youtube.com 
 youtube.cleverads.vn
-analytics.tiktok.com 
-ads.tiktok.com 
-analytics-sg.tiktok.com
-ads-sg.tiktok.com
+tiktok.com
+tiktokcdn.com
 ads.yahoo.com
 global.adserver.yahoo.com 
 analytics.yahoo.com
 ads.yap.yahoo.com
-appmetrica.yandex.com 
+yandex.com 
 yandexadexchange.net
-analytics.mobile.yandex.net 
-extmaps-api.yandex.net
-adsdk.yandex.ru
-# adapted from a list made by d3ward
+yandex.net
+yandex.ru
