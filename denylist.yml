@@ -8,10 +8,13 @@
 # |__/               |___/                   
 # I always block these URLS.
 samsung-com.112.2o7.net
+a-spy.com
 ads-twitter.com
 static.ads-twitter.com
+aispyer.com
 p16-tiktokcdn-com.akamaized.net
 tiktokcdn-com.akamaized.net
+alltracker.org
 advertising-api-eu.amazon.com
 amazonaax.com
 adtago.s3.amazonaws.com
@@ -19,19 +22,31 @@ advice-ads.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 amazonclix.com
+api-adservices.apple.com
+iadsdk.apple.com
 metrics.apple.com
+notes-analytics-events.apple.com
 securemetrics.apple.com
 supportmetrics.apple.com
+weather-analytics-events.apple.com
+feedbackws.fe.apple-dns.net
+notes-analytics-events.news.apple-dns.net
+stocks-analytics-events.news.apple-dns.net
+weather-analytics-events.news.apple-dns.net
 assoc-amazon.com
+avast.com
 ns-1574.awsdns-04.co.uk
 ns-722.awsdns-26.net
 ns-440.awsdns-55.com
 ns-1475.awsdns-56.org
+bloomberg.com
+breitbart.com
 api.bugsnag.com
 app.bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 youtube.cleverads.vn
+cnn.com
 doubleclick.net
 ads.facebook.com
 an.facebook.com
@@ -41,6 +56,7 @@ fastclick.com
 fastclick.net
 cdn.fastclick.net
 media.fastclick.net
+foxnews.com
 freshmarketer.com
 app.getsentry.com
 ads.google.com
@@ -55,6 +71,8 @@ metrics-dra.dt.hicloud.com
 logbak.hicloud.com
 logservice.hicloud.com
 hotjar.com
+acfeedbackws.icloud.com
+feedbackws.icloud.com
 metrics.icloud.com
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
@@ -79,6 +97,7 @@ api2-21-h2.musical.ly
 log2.musical.ly
 mon.musical.ly
 metrics.mzstatic.com
+nypost.com
 analytics.oneplus.cn
 click.oneplus.com
 open.oneplus.net
@@ -92,6 +111,7 @@ ads.reddit.com
 d.reddit.com
 events.redditmedia.com
 rereddit.com
+reuters.com
 nmetrics.samsung.com
 smetrics.samsung.com
 bigdata.ssp.samsung.com
@@ -103,6 +123,8 @@ analytics-api.samsunghealthcn.com
 analytics.samsungknox.com
 business.samsungusa.com
 browser.sentry-cdn.com
+spappmonitoring.com
+thegatewaypundit.com
 tiktok.com
 m.tiktok.com
 www.tiktok.com
@@ -117,6 +139,7 @@ ib.tiktokv.com
 log.tiktokv.com
 ads-api.twitter.com
 advertising.twitter.com
+syndication.twitter.com
 tiktokcdn.com.c.worldfcdn.com
 stats.wp.com
 api.ad.xiaomi.com
@@ -129,6 +152,7 @@ sdkconfig.ad.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.mistat.rus.xiaomi.com
+yahoo.com
 ads.yahoo.com
 global.adserver.yahoo.com
 analytics.yahoo.com

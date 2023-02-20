@@ -7,8 +7,11 @@
 #  _/ |               __/ |                  
 # |__/               |___/                   
 # I always allow these URLS.
-apple.com
+amp-api-edge.apps.apple.com
+amp-api-search-edge.apps.apple.com
+xp.apple.com
 bing.com
+brave.com
 cloudflare.com
 dell.com
 demdex.net
@@ -53,8 +56,6 @@ ubuntu.com
 ui.com
 urbanairship.com
 visualstudio.com
-webullfinance.com
-webullfintech.com
 windows.com
 windowsupdate.com
 xboxlive.com
