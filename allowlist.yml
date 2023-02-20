@@ -9,6 +9,7 @@
 # I always allow these URLS.
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
+smoot.apple.com
 xp.apple.com
 bing.com
 brave.com
@@ -17,6 +18,7 @@ dell.com
 demdex.net
 discordapp.com
 espncdn.com
+dcf.espn.com
 graph.facebook.com
 gamepass.com
 ghcr.io
@@ -25,11 +27,11 @@ github.io
 gitlab.com
 googleapis.com
 fonts.gstatic.com
-doppler.hulu.com
-vortex.hulu.com
-darwin.hulustream.com
+ads-fa-darwin.hulustream.com
 icloud.com
-instagram.com
+graph.facebook.com
+graph.instagram.com
+i.instagram.com
 intuit.com
 jmcglock.com
 live.com
