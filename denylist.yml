@@ -7,6 +7,13 @@
 #  _/ |               __/ |                  
 # |__/               |___/                   
 # I always block these URLS.
+events.gfe.nvidia.com
+syndication.twitter.com
+acfeedbackws.icloud.com
+feedbackws.fe.apple-dns.net
+feedbackws.icloud.com
+notes-analytics-events.news.apple-dns.net
+weather-analytics-events.news.apple-dns.net
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
