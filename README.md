@@ -1,11 +1,17 @@
-# NextDNS Allowlist and Blocklist
-This repository contains my personal allowlist and blocklist for NextDNS, a cloud-based DNS provider that offers ad-blocking, malware protection, and content filtering.
+# NextDNS Configuration Lists
 
-## Usage
-To use my allowlist and blocklist, you can simply add each domain to your NextDNS account allowlist/denylist.
+A collection of curated allowlist and blocklist domains for NextDNS configurations.
+
+## Overview
+This repository maintains domain lists for:
+- Allowlist: Trusted domains to prevent false positives
+- Blocklist: Known problematic domains to enhance security
 
 ## Contributing
-If you find any domains that should be added to either the allowlist or blocklist, feel free to create a pull request with your changes.
+- Fork the repository
+- Add domains to appropriate lists
+- Submit a pull request with explanation
+- Follow standard domain format
 
 ## License
-This repository is licensed under the MIT License.
+MIT License - Feel free to use and modify
