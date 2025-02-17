@@ -5,20 +5,28 @@
 # ╚█████╔╝██║ ╚═╝ ██║╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 # DNS Allowlist for NextDNS
+
+# Apple Services
 apple.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 smoot.apple.com
+
+# Microsoft Services
 microsoft.com
 visualstudio.com
 windows.com
 windowsupdate.com
 xboxlive.com
+
+# Development & Code Hosting
 ghcr.io
 github.com
 github.io
 gitlab.com
 googleapis.com
+
+# Social & Media
 discordapp.com
 graph.facebook.com
 graph.instagram.com
@@ -28,14 +36,20 @@ soundcloud.com
 spotify.com
 scdn.co
 s.youtube.com
+
+# Streaming Services
 ads-fa-darwin.hulustream.com
 hulu.hb-api.omtrdc.net
 megaphone.fm
 nbcsports.com
 peacocktv.com
+
+# Sports
 dcf.espn.com
 espncdn.com
 gamepass.com
+
+# Utilities & Services
 demdex.net
 fonts.gstatic.com
 intuit.com
@@ -48,8 +62,12 @@ typekit.net
 ubuntu.com
 ui.com
 urbanairship.com
+
+# Tesla
 tesla.com
 tesla.services
 tessie.com
+
+# Additional Common Services
 akamai.net
 cloudflare.com

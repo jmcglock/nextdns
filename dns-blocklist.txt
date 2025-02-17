@@ -5,6 +5,8 @@
 # ╚█████╔╝██║ ╚═╝ ██║╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 # DNS Blocklist for NextDNS
+
+# Analytics & Tracking
 google-analytics.com
 ssl.google-analytics.com
 analytics.google.com
@@ -12,6 +14,8 @@ click.googleanalytics.com
 app-measurement.com
 analytics.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
+
+# Ad Services
 pagead2.googlesyndication.com
 adservice.google.com
 afs.googlesyndication.com
@@ -21,6 +25,8 @@ ad.doubleclick.net
 static.doubleclick.net
 stats.g.doubleclick.net
 mediavisor.doubleclick.net
+
+# Social Media Tracking
 pixel.facebook.com
 an.facebook.com
 analytics.tiktok.com
@@ -33,6 +39,8 @@ ads.linkedin.com
 analytics.pointdrive.linkedin.com
 static.ads-twitter.com
 ads-api.twitter.com
+
+# Mobile Device Analytics
 metrics.apple.com
 api-adservices.apple.com
 iadsdk.apple.com
@@ -42,6 +50,8 @@ metrics.icloud.com
 notes-analytics-events.apple.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
+
+# Third Party Analytics
 mouseflow.com
 api.mouseflow.com
 cdn.mouseflow.com
@@ -54,15 +64,21 @@ identify.hotjar.com
 insights.hotjar.com
 surveys.hotjar.com
 adm.hotjar.com
+
+# Error Tracking
 notify.bugsnag.com
 sessions.bugsnag.com
 api.bugsnag.com
 app.bugsnag.com
 browser.sentry-cdn.com
 app.getsentry.com
+
+# Amazon Related
 advice-ads.s3.amazonaws.com
 adtago.s3.amazonaws.com
 advertising-api-eu.amazon.com
+
+# Spammy Tech Companies
 api.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 data.mistat.xiaomi.com
@@ -73,6 +89,8 @@ nmetrics.samsung.com
 smetrics.samsung.com
 samsungads.com
 samsung-com.112.2o7.net
+
+# Additional Ad Networks
 media.net
 static.media.net
 adservetx.media.net
