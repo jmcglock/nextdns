@@ -5,69 +5,51 @@
 # ╚█████╔╝██║ ╚═╝ ██║╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 # DNS Allowlist for NextDNS
-
-# Apple Services
-apple.com
+akamai.net
+ads-fa-darwin.hulustream.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
-smoot.apple.com
-
-# Microsoft Services
-microsoft.com
-visualstudio.com
-windows.com
-windowsupdate.com
-xboxlive.com
-
-# Development & Code Hosting
+apple.com
+cloudflare.com
+dcf.espn.com
+demdex.net
+discordapp.com
+espncdn.com
+fonts.gstatic.com
+gamepass.com
 ghcr.io
 github.com
 github.io
 gitlab.com
 googleapis.com
-
-# Social & Media
-discordapp.com
 graph.facebook.com
 graph.instagram.com
-i.instagram.com
-pinimg.com
-soundcloud.com
-spotify.com
-scdn.co
-s.youtube.com
-
-# Streaming Services
-ads-fa-darwin.hulustream.com
 hulu.hb-api.omtrdc.net
-megaphone.fm
-nbcsports.com
-peacocktv.com
-
-# Sports
-dcf.espn.com
-espncdn.com
-gamepass.com
-
-# Utilities & Services
-demdex.net
-fonts.gstatic.com
+i.instagram.com
 intuit.com
+megaphone.fm
+microsoft.com
+nbcsports.com
 nerdfonts.com
 nextdns.io
 omtrdc.net
+peacocktv.com
+pinimg.com
 rancher.io
+s.youtube.com
+scdn.co
 simplelogin.io
+smoot.apple.com
+soundcloud.com
+spotify.com
+tesla.com
+tesla.services
+tessie.com
 typekit.net
 ubuntu.com
 ui.com
 urbanairship.com
-
-# Tesla
-tesla.com
-tesla.services
-tessie.com
-
-# Additional Common Services
-akamai.net
-cloudflare.com
+visualstudio.com
+windows.com
+windowsupdate.com
+xboxlive.com
