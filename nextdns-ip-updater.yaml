@@ -1,0 +1,58 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: nextdns-ip-updater
+  namespace: default
+  labels:
+    app: nextdns-ip-updater
+spec:
+  schedule: "0 * * * *"  # Every hour at minute 0
+  timeZone: "America/New_York"
+  successfulJobsHistoryLimit: 3
+  failedJobsHistoryLimit: 1
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      backoffLimit: 2
+      activeDeadlineSeconds: 180
+      template:
+        metadata:
+          labels:
+            app: nextdns-ip-updater
+          annotations:
+            prometheus.io/scrape: "false"
+            prometheus.io/port: "8080"
+        spec:
+          restartPolicy: Never
+          containers:
+          - name: ip-updater
+            image: curlimages/curl:8.6.0
+            imagePullPolicy: IfNotPresent
+            command:
+            - /bin/sh
+            - -c
+            - |
+              echo "{\"timestamp\":\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\",\"action\":\"updating_nextdns_ip\"}"
+              curl -f -s -L https://link-ip.nextdns.io/YOUR_CONFIG_ID_HERE
+              echo "{\"timestamp\":\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\",\"action\":\"update_completed\",\"exit_code\":$?}"
+            resources:
+              requests:
+                memory: "8Mi"
+                cpu: "5m"
+              limits:
+                memory: "16Mi"
+                cpu: "25m"
+            startupProbe:
+              exec:
+                command: ["/bin/sh", "-c", "which curl"]
+              initialDelaySeconds: 5
+              periodSeconds: 10
+              failureThreshold: 3
+            securityContext:
+              allowPrivilegeEscalation: false
+              runAsNonRoot: true
+              runAsUser: 65534
+              readOnlyRootFilesystem: true
+              capabilities:
+                drop:
+                - ALL
