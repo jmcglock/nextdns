@@ -58,9 +58,3 @@ Tracking and advertising domains: ad networks, analytics, social media tracking,
 2. Add domains with explanations
 3. Test changes
 4. Submit PR with detailed description
-
-## Resources
-
-- [NextDNS Docs](https://docs.nextdns.io/)
-- [NextDNS API](https://api.nextdns.io/)
-- [Kubernetes CronJobs](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
