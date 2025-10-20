@@ -36,6 +36,7 @@ api.mouseflow.com
 app-measurement.com
 app.bugsnag.com
 app.getsentry.com
+assets.adobedtm.com
 books-analytics-events.apple.com
 browser.sentry-cdn.com
 business-api.tiktok.com
@@ -47,6 +48,8 @@ data.mistat.xiaomi.com
 doubleclick.net
 events.hotjar.io
 events3alt.adcolony.com
+g008-vod-us-cmaf-prd-cc.cdn.peacocktv.com
+g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com
 globalapi.ad.xiaomi.com
 google-analytics.com
 gtm.mouseflow.com
@@ -55,10 +58,12 @@ iadsdk.apple.com
 identify.hotjar.com
 insights.hotjar.com
 media.net
+mediatailor.us-east-1.amazonaws.com
 mediavisor.doubleclick.net
 metrics.apple.com
 metrics.icloud.com
 mouseflow.com
+mt.ssai.peacocktv.com
 nmetrics.samsung.com
 notes-analytics-events.apple.com
 notify.bugsnag.com
@@ -79,5 +84,7 @@ stats.g.doubleclick.net
 surveys.hotjar.com
 tools.mouseflow.com
 tr.iadsdk.apple.com
-weather-analytics-events.apple.com
+userdata.sr.roku.com
+video-ads-module.ad-tech.nbcuni.com
 wd.adcolony.com
+weather-analytics-events.apple.com
