@@ -10,7 +10,7 @@ ads-fa-darwin.hulustream.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 apple.com
-*.braze.com
+braze.com
 cloudflare.com
 dcf.espn.com
 demdex.net
