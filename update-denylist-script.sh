@@ -81,8 +81,13 @@ domains=(
     "surveys.hotjar.com"
     "tools.mouseflow.com"
     "tr.iadsdk.apple.com"
+    "events.reddit.com"
+    "pixel.linkedin.com"
+    "telemetry.microsoft.com"
+    "tr.snapchat.com"
     "userdata.sr.roku.com"
     "video-ads-module.ad-tech.nbcuni.com"
+    "vortex.data.microsoft.com"
     "wd.adcolony.com"
     "weather-analytics-events.apple.com"
 )
