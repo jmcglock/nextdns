@@ -26,7 +26,7 @@ spec:
           restartPolicy: Never
           containers:
           - name: ip-updater
-            image: curlimages/curl:8.18.0
+            image: curlimages/curl:8.19.0
             imagePullPolicy: IfNotPresent
             command:
             - /bin/sh
